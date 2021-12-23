@@ -42,10 +42,5 @@ public class SavingsAcc {
         System.out.println(" Enter amount to withdraw :");
         double withdraw= sc.nextDouble();
 
-        /*System.out.println(" Enter amount to deposit :");
-        double deposit= sc.nextDouble();*/
-
-
-
     }
 }
